@@ -1,0 +1,7 @@
+{
+  "name": "HoloEarth 3D",
+  "description": "A futuristic 3D holographic Earth interface with hand gesture controls powered by MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
